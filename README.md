@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oren14Dani,
 - 🌱 I’m currently learning for B.Cs. in Electrical Engineering. 
-- 📫 You can reach me at Linkdin: www.linkedin.com/in/oren-danilov
+- 📫 You can reach me at Linkedin: www.linkedin.com/in/oren-danilov
 
 
 <!---
