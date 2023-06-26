@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oren.
-- 🌱 I’m currently learning for B.Cs. in Electrical Engineering. 
+- 🌱 I’m currently learning for B.Sc. in Electrical Engineering. 
 - 📫 You can reach me at Linkedin: www.linkedin.com/in/oren-danilov
 
 
